@@ -32,7 +32,7 @@ const words = [
   'loving'
 ];
 
-// Init word
+// Ini
 let randomWord;
 
 // Init score
